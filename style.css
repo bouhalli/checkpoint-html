@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://th.bing.com/th/id/R.e87eaa10d9984196d362610c955fb18c?rik=zy1fAklA94lSGA&pid=ImgRaw&r=0");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+    color: rgb(27, 78, 115) !important;
+    margin: 2%;
+    font-style: italic;
+}
+img{
+    width: 200px;
+    border-bottom: 100%;
+    margin: 10%;
+}
+p{
+    font-size: 20px;
+    color: rgb(163, 62, 118) !important;
+    font-style: italic;
+}
+ul{  font-size: 20px;
+    color: rgb(163, 62, 118) !important; 
+    font-style: italic;
+}
+table{
+    margin: 2%;
+    font-style: italic;
+    font-size: 20px;
+    color: rgb(163, 62, 118) !important;
+}
+ol{ font-size: 20px;
+    color: rgb(135, 131, 195) !important; 
+    font-style: italic;
+
+}
+h4{ font-size: 20px;
+    color: rgb(138, 144, 204) !important; 
+    font-style: italic;
+
+
+}
